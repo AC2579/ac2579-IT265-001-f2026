@@ -7,12 +7,12 @@
 
 #### Goals for this Module
 <!-- Example Template (include the brackets to make a checklist, fill them in with an "x" to check them off
+- [ ] Example pending goal
+- [x] Example completed goal
+-->
 - [X] Download git bash
 - [X] Set up git hub and ssh key
 - [ ] Finish dev log and brainstorm
--->
-- [ ] Example pending goal
-- [x] Example completed goal
 
 #### Progress
 - **What I accomplished**:
