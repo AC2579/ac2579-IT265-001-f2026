@@ -12,34 +12,33 @@
 
 - **Chosen Name**:Off-Meta Studio
 - **About the name**:Off meta is a gaming slang that meaning unpopular or unoptimal
-- **Social Medias with name available**:instagram, Twitter, facebook
-- **Possible domain names available**:OffMettaStudio.com, OMS.com
+- **Social Medias with name available**:Instagram, Twitter, Facebook
+- **Possible domain names available**:OffMetaStudio.com, OMS.com
 
 ---
 
 ## Vision Statement
 *What is the mission of your solo game studio? How does it align with creating and analyzing innovative game architectures?*
 
-> [The studio's objective is to make our dream ideas true, a space where imagination becomes reality, creating games that ]
+> [The studio's objective is to make our dream ideas true, a space where imagination becomes reality, creating games that we would play.]
 
 ---
 
 ## Core Values
 *What principles guide your studio's approach to game design, architecture, and development?*
 
-- [Value 1: e.g., Thoughtful Design]
-- [Value 2: e.g., Player-Centered Innovation]
-- [Value 3: e.g., Simplicity in Architecture]
-- [Value 4: e.g., Experimentation with Mechanics]
+- Fun
+- Player Feedback
+- Immersiveness  
 
 ---
 
 ## Target Audience
 *Who are your games designed for? Identify your primary audience based on your focus on card and board games.*
 
-- **Demographic:** [e.g., Casual Players, Board Game Enthusiasts, Indie Game Fans]
-- **Interests:** [e.g., Strategic Gameplay, Narrative-Driven Experiences, Multiplayer Fun]
-- **Platforms:** [e.g., PC, Web, Mobile]
+- **Demographic:** Casual Players, Multiplayers, Number Crunchers, Story Enjoyers 
+- **Interests:** Narritive stratigic 
+- **Platforms:** Web, Table Top
 
 ---
 
@@ -47,27 +46,26 @@
 *What types of games will your studio focus on?*  
 *Consider your course's emphasis on depth, mechanics, and balance in card and board games.*
 
-- [e.g., Strategy Games, Puzzle Games, Cooperative Board Games]
-- [e.g., Themes: Fantasy, Sci-Fi, Minimalist, etc.]
+- Turn base strategy
+- Fantastical Cyberpunk 
 
 ---
 
 ## Unique Selling Point (USP)
 *What will make your games stand out from others, particularly in the indie/board game space?*
 
-> [Describe your USP, such as unique mechanics, storytelling integration, or player interaction.]
+> [A story diven turn base game set in a dystopian world with fantasy elements]
 
 ---
 
 ## Tools and Technology
 *What tools and platforms will you use to develop, test, and publish your games?*
 
-- **Game Engine(s):** [e.g., Unity, Godot, Phaser for digital prototyping.]
-- **Art Tools:** [e.g., Inkscape, Aseprite for board/card assets.]
-- **Audio Tools:** [e.g., Audacity, Bfxr for sound effects.]
-- **Version Control:** [e.g., GitHub for tracking development.]
-- **Publishing Platforms:** [e.g., Itch.io, GitHub Pages for hosting digital prototypes.]
-
+- **Game Engine(s):** Unity
+- **Art Tools:** Blend, Photoshop
+- **Audio Tools:** OBS, Audacity
+- **Version Control:** Github
+- **Publishing Platforms:** Itch.io, 
 ---
 
 ## Branding and Aesthetics
@@ -75,10 +73,10 @@
 
 - **Logo Style:** [e.g., Minimalist, Geometric, Playful.]
 - **Tagline Ideas:** 
-  - [Tagline 1: e.g., "Simple Games, Complex Stories."]
-  - [Tagline 2: e.g., "Where Mechanics Meet Meaning."]
-  - [Tagline 3: e.g., "Architects of Fun."]
-
+  - Story Driven
+  - Mechanics of Consequence
+  - Immersive World
+  
 -- **Sketches/Logo**:
 
 ---
