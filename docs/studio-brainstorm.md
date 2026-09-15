@@ -3,7 +3,7 @@
 ## Studio Name Ideas
 - **Primary Ideas:**
   - Off-Meta Studio
-  - Sagarmatha
+  - YouXi Studio
   - Tet Studio
 - **Alternative Ideas:**
   - Forge Games
@@ -76,7 +76,7 @@
   - Story Driven
   - Mechanics of Consequence
   - Immersive World
-  
+
 -- **Sketches/Logo**:
 
 ---
