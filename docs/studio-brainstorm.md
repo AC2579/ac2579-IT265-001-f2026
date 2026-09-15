@@ -2,25 +2,25 @@
 <!-- NOTE: remove the bracketted examples/placeholders as you fill things in, only keep brackets if they're a checkbox -->
 ## Studio Name Ideas
 - **Primary Ideas:**
-  - [Off-Meta Studio]
-  - [Sagarmatha]
-  - [Tet Studio]
+  - Off-Meta Studio
+  - Sagarmatha
+  - Tet Studio
 - **Alternative Ideas:**
-  - [Forge Games]
-  - [United Games]
-  - [GC studio (GameCraft)]
+  - Forge Games
+  - United Games
+  - GC studio (GameCraft)
 
-- **Off-Meta Studio**:
-- **Off meta is a gaming slang that meaning unpopular or unoptimal**:
-- **instagram, Twitter, facebook**:
-- **OffMettaStudio.com, OMS.com**:
+- **Chosen Name**:Off-Meta Studio
+- **About the name**:Off meta is a gaming slang that meaning unpopular or unoptimal
+- **Social Medias with name available**:instagram, Twitter, facebook
+- **Possible domain names available**:OffMettaStudio.com, OMS.com
 
 ---
 
 ## Vision Statement
 *What is the mission of your solo game studio? How does it align with creating and analyzing innovative game architectures?*
 
-> [The studio's objective is to make our dream ideas true, a space where imagination becomes reality, ]
+> [The studio's objective is to make our dream ideas true, a space where imagination becomes reality, creating games that ]
 
 ---
 
