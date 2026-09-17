@@ -4,6 +4,7 @@
 
 <!-- Repeat the below as needed-->
 ### Date: [9/10/2026]
+### Update: [9/17/2026]
 
 #### Goals for this Module
 <!-- Example Template (include the brackets to make a checklist, fill them in with an "x" to check them off
@@ -12,7 +13,7 @@
 -->
 - [X] Download git bash
 - [X] Set up git hub and ssh key
-- [ ] Finish dev log and brainstorm
+- [x] Finish dev log and brainstorm
 
 #### Progress
 - **What I accomplished**:
