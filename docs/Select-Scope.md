@@ -4,19 +4,19 @@ Compare the feedback for all your pitches before selecting one. Keep useful alte
 
 | Concept | Clear recurring decision? | Strongest appeal | Feasible first physical prototype? | Risk to test |
 | --- | --- | --- | --- | --- |
+| Ember | Sending out exploration parties | Progression and story | A simple tutorial is possible | Fun factor and balance between difficulty and gameplay |
 | | | | | |
 | | | | | |
-| | | | | |
 
-**Selected concept and reason:**
+**Selected concept and reason:** Ember, a team building dungeon crawler. 
 
-**Feedback that changed or confirmed my choice:**
+**Feedback that changed or confirmed my choice:** I was told I need to find the fun in the game and also suggested ways I can track resources.
 
-**Other ideas to keep for later:**
+**Other ideas to keep for later:** How combat is gonna work
 
-**First physical prototype boundary:**
+**First physical prototype boundary:** Hard to keep track of base building and resource management with physical prototype.
 
-**One feature to defer:**
+**One feature to defer:** 
 
 **One risk to test next:**
 
