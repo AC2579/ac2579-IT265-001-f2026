@@ -1,19 +1,19 @@
 <!-- Markdown Docs: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
 ## Name: Andrew Chen
-### Module: 1
+### Module: 2
 
 <!-- Repeat the below as needed-->
-### Date: [9/10/2026]
-### Update: [9/17/2026]
+### Date: [9/29/2026]
+### Update: [9/29/2026]
 
 #### Goals for this Module
 <!-- Example Template (include the brackets to make a checklist, fill them in with an "x" to check them off
 - [ ] Example pending goal
 - [x] Example completed goal
 -->
-- [X] Download git bash
-- [X] Set up git hub and ssh key
-- [x] Finish dev log and brainstorm
+- [] Read Chapter 2 of book
+- [X] Design Journal and treatment
+- [x] 
 
 #### Progress
 - **What I accomplished**:
