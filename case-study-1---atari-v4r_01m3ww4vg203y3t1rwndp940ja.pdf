@@ -1,0 +1,1393 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 612. 792.]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [42. 667. 441.7999999999998977 654.] /Border [0 0 0] /A <</S /URI /URI (https://courses.ethereallab.app/assignment/v4/IT265-001-F2026/case-study-1-atari/ac2579) >> >>
+<</Type /Annot /Subtype /Link /Rect [42. 641. 477.5999999999997385 628.] /Border [0 0 0] /A <</S /URI /URI (https://courses.ethereallab.app/assignment/v4/IT265-001-F2026/case-study-1-atari/grading/ac2579) >> >>
+]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 5297
+>>
+stream
+0.200025 w
+0 G
+BT
+/F2 19 Tf
+21.8499999999999979 TL
+0 g
+42. 748. Td
+(Case Study 1 - Atari) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+42. 724. Td
+(Student submission) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+42. 706. Td
+(Assignment revision: 5 | Maximum points: 10 | Student: ac2579 | Submitted:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+42. 694. Td
+(2026-10-01T23:17:44.066Z | Submission revision: 596 | Receipt:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+42. 682. Td
+(v4r_01M3WW4VG203Y3T1RWNDP940JA | Exported: 2026-10-01T23:17:50.779Z) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0 g
+42. 670. Td
+(Worksheet link) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.294 0.588 rg
+42. 657. Td
+(https://courses.ethereallab.app/assignment/v4/IT265-001-F2026/case-study-1-atari/ac2579) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0. g
+42. 644. Td
+(Grading link) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.294 0.588 rg
+42. 631. Td
+(https://courses.ethereallab.app/assignment/v4/IT265-001-F2026/case-study-1-atari/grading/ac2579) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+42. 618. Td
+(AI disclosure: Completed; 1 entry; 0 declared AI use; 1 declared no AI use; policy v1) Tj
+ET
+BT
+/F2 15 Tf
+17.25 TL
+0. g
+42. 596. Td
+(Game Overview) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 571. Td
+(Game details) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 554. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 539. Td
+(Identify the game: title, developer, publisher, original platform, genre, and release date. Note) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 526. Td
+(the version you played if different.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 513. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 498. Td
+(Game: Berzerk) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 485. Td
+(Dev: Alan McNiel) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 472. Td
+(Publisher: Stern Electronics Inc.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 459. Td
+(Original Platform: Arcade) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 446. Td
+(Genre: Multi-directional shooter. ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 433. Td
+(Release:1980) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 407. Td
+(I played the Atari version of the game that came out two years later in 1982, it is missing a few features of the original,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 394. Td
+(mainly the voice feature and evil Otto.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 366. Td
+(History and industry) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 349. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 334. Td
+(Explain the historical context of the release and where the game fit in the industry at that) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 321. Td
+(time.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 308. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 293. Td
+(The game was released in 1980 as a arcade game, which allowed it to catch the Golden Age of Arcade games, where) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 280. Td
+(the main way people can play games were in arcades on these big giant boxes. It's shooting feature wasn't the first as it) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 267. Td
+(was similar to many predecessor of the genre at the time like space invaders and Spacewars!. But is was know for it's) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 254. Td
+(fluid 8 dimensional movement and it's voice synthesizer feature, where voice lines would play while the player plays the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 241. Td
+(game such as, "intruder alert! Intruder alert!", "Chicken! Fight like a robot!", "Got the intruder!", and "Coin detected in) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 228. Td
+(pocket!".  Taunting the player or should I say ragebait the player to continue, also I researched it a little bit and I think) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 215. Td
+(this was a way for the developer to externalize his hate for computers. As the saying goes I'm not suffering we're) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 202. Td
+(suffering. Besides the voice lines the game also was one of the first games to introduce a endgame/late game feature,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 189. Td
+(so the game can keep moving and anti-stagnation mechanic, in the for of evil otto. Evil Otto is a invincible enemy the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 176. Td
+(spawns in as a smiley face that chases after the player, it anything it touches including enemies and when all the robots) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 163. Td
+(on the field dies otto speeds up to subtly suggest the player into the next stage with the threat of dying.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 135. Td
+(Contemporary comparison) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 118. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 103. Td
+(Compare the game with a similar game from the same period, explaining a meaningful) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 90. Td
+(design similarity or difference.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 77. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 62. Td
+(The game's controls are not the smoothest from the games of it's time, though that can definitely just be me playing it) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0. g
+42. 22. Td
+(Learn Worksheet V4 submission | Page 1 of 4) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 612. 792.]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 5905
+>>
+stream
+0.200025 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 748. Td
+(on keyboard instead of a joystick, at the time a lot of games were introducing 2d movement, such as armor attack and) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 735. Td
+(rip off both released in the same year, but very few introduces the degree of control you have over your 8 directional) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 722. Td
+(movement, rip off and armor attack both have you control a vehicle that is already in constant motion, while Berzerk lets) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 709. Td
+(you fully control your movement. Berzerk also plays much more aggressive then similar games from the era, as the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 696. Td
+(longer the game goes on the stronger Evil Otto gets, and compared to the more static map designs or the lack of) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 683. Td
+(designs from the era, Berzerk offers a large amount of random maps and stages that the player can play through. Also) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 670. Td
+(the map is also speeds up the game as touching the walls of the map kills you.) Tj
+ET
+BT
+/F2 15 Tf
+17.25 TL
+0. g
+42. 642. Td
+(Gameplay Mechanics And Level Design) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 617. Td
+(Core gameplay mechanics) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 600. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 585. Td
+(Explain how the core actions and rules shape a recurring player decision. Support the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 572. Td
+(explanation with a gameplay example.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 559. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 544. Td
+(The core gameplay of the game is the movement combined  with shooting, the player constantly moves for better) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 531. Td
+(shooting positions and avoiding danger, while the shooting is the main way you can get rid of enemies and clear the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 518. Td
+(level. Shooting also is a way for you to parry enemy attacks, as you can shoot the enemy projectile, but the fire rate of) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 505. Td
+(your gun is limited as only one of your projectiles can exist at the time, so if you shoot far away you would have a low) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 492. Td
+(fire rate but if you shoot a wall right in front of you, you can go crazy. The movement allows the player to avoid shots,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 479. Td
+(avoid the enemies from touching you, and for you to get to the next level. Or if your me walk straight into the wall for the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 466. Td
+(5th time, also you move faster sideways then you do up and down which is stupid. So the overall game play if for the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 453. Td
+(player to survive through movement, while clearing the level of enemies to earn points and advance to the next level.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 425. Td
+(Level design) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 408. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 393. Td
+(Explain how the layout, obstacles, or progression affect a player decision or challenge. Use) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 380. Td
+(a specific example.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 367. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 352. Td
+(The game incentivizes the player to be aggressive. The map layout is anti life cause anything that touches a wall dies) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 339. Td
+(instantly, which includes the enemies who sometimes walk into them, so if you really want to you can clear a level) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 326. Td
+(without shooting a single shot. The enemies also makes sure that you are aggressive as they will kill you if they touch) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 313. Td
+(your or shoot you, so you better clear them out before they clear you out, the enemies can also kill each other if they) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 300. Td
+(shoot each other. The most important part that keeps the game mobile, Evil Otto, a evil smiley face that spawns 8 secs) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 287. Td
+(after you spawn, that will constantly charge towards you, forcing you to be mobile and kill enemies at the same time.) Tj
+ET
+BT
+/F2 15 Tf
+17.25 TL
+0. g
+42. 259. Td
+(Graphic And Audio Design) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 234. Td
+(Visual design) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 217. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 202. Td
+(Explain how a visual design choice affects the experience or communicates information) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 189. Td
+(during play. Use a specific example.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 176. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 161. Td
+(The voices of the game, while I didn't experience it probably rage baited or enrages plenty of player. Even without the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 148. Td
+(taunting voice lines I was getting frustrated play the game as the player can die to easily and sometimes the enemies) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 135. Td
+(spawned right on top of me, it felt as if everything was out to get me. So with the voices I can imagine that the game) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 122. Td
+(must have been frustrating and yet it baits you back again to beat it. The designs on the other had weren't anything) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 109. Td
+(spectacular, the basic same colored blocks that moved around with less visual clarity then space panic \(a game) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 96. Td
+(released the same year\).) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0. g
+42. 22. Td
+(Learn Worksheet V4 submission | Page 2 of 4) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 612. 792.]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 4789
+>>
+stream
+0.200025 w
+0 G
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 748. Td
+(Sound design) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 731. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 716. Td
+(Explain how music, sound effects, or their absence affect the experience or communicate) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 703. Td
+(information during play. Use a specific example.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 690. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 675. Td
+(Their really wasn't any music in the game that I played, and the sound effects were pretty average for the time though) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 662. Td
+(obnoxiously loud for me personally. Especially the death sound. But the voice lines as I explained before added a lot to) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 649. Td
+(the games charm as a bad guy, like "yeah I bet you cant beat me!! you Chicken".) Tj
+ET
+BT
+/F2 15 Tf
+17.25 TL
+0. g
+42. 621. Td
+(Narrative And Storytelling) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 596. Td
+(Narrative and setting) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 579. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 564. Td
+(Explain how the setting and story relate to play. Describe key events if present, or explain) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 551. Td
+(the effect of a limited or absent story.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 538. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 523. Td
+(The game was inspired by a book series called "Berserker" by Fred Saberhagen, where robots were hunting down) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 510. Td
+(organic lifeforms, which itself was probably inspire by the emergence of new technology at the time such as computers.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 497. Td
+(The game itself simply does the concept of a humanoid player fighting a horde of robots out to get him.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 469. Td
+(Character development) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 452. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 437. Td
+(Explain how character development relates to gameplay, or how limited or absent) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 424. Td
+(development affects the experience.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 411. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 396. Td
+(There isn't any character development to see, the sprite of the player and robot didn't change at all besides the color) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 383. Td
+(and the environment was random. Which I guess is reflected in the gameplay as you are just doing the same thing over) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 370. Td
+(and over again until you die.) Tj
+ET
+BT
+/F2 15 Tf
+17.25 TL
+0. g
+42. 342. Td
+(Impact And Reception) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 317. Td
+(Reception) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 300. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 285. Td
+(Summarize the critical and player reception using identifiable reviews or feedback.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 272. Td
+(Distinguish release-era reception from later reactions.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 259. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 244. Td
+(The game was actually received incredibly well despite being it's creator's first game. Arcades especially in the west) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 231. Td
+(practically all had the game, taunting players to play with it's unique voice feature. 15,000 machines were stocked in) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 218. Td
+(arcades in the US at the time of release and was ranked top 5 in the games at the time, even today it's still ranked in the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 205. Td
+(top 100 games and still has players.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 177. Td
+(Industry and cultural impact) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 160. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 145. Td
+(Explain the game's industry impact and cultural significance using research. Avoid claiming) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 132. Td
+(influence that the sources do not establish.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 119. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 104. Td
+(The game was one of the first games to introduce a mechanic to prevent players from dragging on the game with Evil) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 91. Td
+(Otto, something that kept the game moving and it's charming voice lines also inspire future games.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0. g
+42. 22. Td
+(Learn Worksheet V4 submission | Page 3 of 4) Tj
+ET
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 612. 792.]
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 2599
+>>
+stream
+0.200025 w
+0 G
+BT
+/F2 15 Tf
+17.25 TL
+0. g
+42. 748. Td
+(Reflection) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 723. Td
+(Fun and experience) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 706. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 691. Td
+(Explain what made the game enjoyable or frustrating for you, using a gameplay example.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 678. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 663. Td
+(It might just be me but the controls don't feel fluid on keyboard and took me a frustrating while to get used to, also why) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 650. Td
+(does the goddam all kill you??? I am trying to make precise peaking angle on robots and then I dies cause i got too) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 637. Td
+(close to a wall. Also the enemies are hard to kill cause if you can get a clean shot on them so can they. But what was) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 624. Td
+(interesting to me was that the fatal wall contact was the same for the enemy too, if they touch it they die as well.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 596. Td
+(Learning and research) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 579. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 564. Td
+(Reflect on what this case study taught you and how easy or difficult it was to find) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 551. Td
+(dependable information.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 538. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 523. Td
+(https://www.anbmedia.com/news/2023/03/atari-acquisition-12-classic-arcade-properties-berzerk-frenzy/) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 510. Td
+(https://www.newspapers.com/article/honolulu-star-bulletin-these-games-will/112582618/) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 497. Td
+(https://www.youtube.com/watch?v=Q7BFeRxCB6E&t=511s) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 471. Td
+(Despite a games graphics if a game has charm it still can be popular, and it also showed how far games have come,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 458. Td
+(cause at the time this was a top of the line game. ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 432. Td
+(Researching wasn't as hard as I though it would be for a game like this though, I might have gotten lucky with a news) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 419. Td
+(paper report post about the game that came out in 1981, that wrote about the sentiment of the game at the time.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0. g
+42. 22. Td
+(Learn Worksheet V4 submission | Page 4 of 4) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R ]
+/Count 4
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+21 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+22 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+23 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+24 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 11 0 R
+/F2 12 0 R
+/F3 13 0 R
+/F4 14 0 R
+/F5 15 0 R
+/F6 16 0 R
+/F7 17 0 R
+/F8 18 0 R
+/F9 19 0 R
+/F10 20 0 R
+/F11 21 0 R
+/F12 22 0 R
+/F13 23 0 R
+/F14 24 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+25 0 obj
+<<
+/Producer (jsPDF 4.2.1)
+/CreationDate (D:20261001191750-04'00')
+>>
+endobj
+26 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 27
+0000000000 65535 f 
+0000019661 00000 n 
+0000021501 00000 n 
+0000000015 00000 n 
+0000000546 00000 n 
+0000005895 00000 n 
+0000006000 00000 n 
+0000011957 00000 n 
+0000012062 00000 n 
+0000016903 00000 n 
+0000017009 00000 n 
+0000019736 00000 n 
+0000019862 00000 n 
+0000019993 00000 n 
+0000020127 00000 n 
+0000020265 00000 n 
+0000020389 00000 n 
+0000020518 00000 n 
+0000020650 00000 n 
+0000020786 00000 n 
+0000020914 00000 n 
+0000021041 00000 n 
+0000021170 00000 n 
+0000021303 00000 n 
+0000021405 00000 n 
+0000021754 00000 n 
+0000021840 00000 n 
+trailer
+<<
+/Size 27
+/Root 26 0 R
+/Info 25 0 R
+/ID [ <6C1FA3F48AB531549D984420F98FE454> <6C1FA3F48AB531549D984420F98FE454> ]
+>>
+startxref
+21944
+%%EOF
