@@ -12,28 +12,28 @@
 - [x] Example completed goal
 -->
 - [] Read Chapter 2 of book
-- [X] Explore concepts of game balance 
-- [x] Case study about a Atari game
+- [] CLearning olor Theory
+- [x] Game visual identity
 
 #### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
-   >Learned about the different aspects of game balance such as dominate strategies (option that will always be the best pick), components that will add complexity, and payoff matrix. 
-   >I played Berzerk a old Atari game from the 1980s and did a case study about it, I learned all about the gaming scene during 1980 and how even such a game was popular and what waves it led. 
+   > How different colors and visual effects give your game personality, I decided that I will make a fantasy est dungeon.
+   >
 <!--Your entry here or N/A if not applicable for this entry-->
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
-   >Even though I play games during my free time and not so free time, some of the game concepts were hard to wrap my head around. Even though I play rts games I don't have a spreadsheet of payoff matrixs for them, I usually micro my economy and send out elite strike teams to do the job.
-   >The most trouble I had was the game Berzerk, I couldn't find a emulator that played the original game that came out in 1980 in arcades, instead I played the one that came out for the arati 2900. Which I guess was the point. Playing the game on a keyboard and mouse while it was meant to be played with a joystick, was frustraiting, everything in the game from the electric walls and controls I swear was meant to ragebait me. <!--Your entry here or N/A if not applicable for this entry-->
+   >I was having a hard time decided the theme of my game that I will go with, it game down to a number draw. i Still don't know a clear visual style for my game, I am still figuring out how a full loop of the game should be like. I have cut away so much from my original idea. No skill tree, no base builder, added cards for abilities and items. 
+   > <!--Your entry here or N/A if not applicable for this entry-->
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
   > I reread the slides to get to understand some of the game concepts.
-  > As for Berzerk I just had to brave the gameplay, I almost switch games mid study. <!--Your entry here or N/A if not applicable for this entry-->
+  > I went through some games that I have played and watch and took varies aspects of them to see if they fit my vision. <!--Your entry here or N/A if not applicable for this entry-->
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
-> I learned concepts of game balance and learned how old games play.
-> I learned how little things like milti directional control and the simple addition of voice lines were ground breaking at the time in the gaming industry. How far we have come.  <!--Your entry here or N/A if not applicable for this entry-->
+> I learned how different visual indicators is important in games, also invisible visual indicators that are included in games, such as the health bar of Issacs Clark. 
+> Having too much visual effects and effect the clarity of a game but having too little can confuse a player, the famous yellow tape in recent games is a lazy way to guide player while not being too obnoxious.   <!--Your entry here or N/A if not applicable for this entry-->
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
