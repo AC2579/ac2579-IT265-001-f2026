@@ -19,26 +19,28 @@
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
    > Hammer out the core mechanics and gameplay loop of the game. 
-   >
+   > Decided on the abilities and player system of the game
+   > Created a physical prototype
 <!--Your entry here or N/A if not applicable for this entry-->
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
-   >I was having a hard time decided the theme of my game that I will go with, it game down to a number draw. i Still don't know a clear visual style for my game, I am still figuring out how a full loop of the game should be like. I have cut away so much from my original idea. No skill tree, no base builder, added cards for abilities and items. 
+   > I was having a hard time deciding on how to make the boards of my physical prototype
+   > I kinda made a mail Mary with deciding what the character ability cards, it was between cards and static abilities. 
    > <!--Your entry here or N/A if not applicable for this entry-->
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
-  > I reread the slides to get to understand some of the game concepts.
-  > I went through some games that I have played and watch and took varies aspects of them to see if they fit my vision. <!--Your entry here or N/A if not applicable for this entry-->
+  > I refer to some previous lessons for my decisions
+  > I based the play boards off of the Darkest Dungeon UI <!--Your entry here or N/A if not applicable for this entry-->
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
-> I learned how different visual indicators is important in games, also invisible visual indicators that are included in games, such as the health bar of Issacs Clark. 
-> Having too much visual effects and effect the clarity of a game but having too little can confuse a player, the famous yellow tape in recent games is a lazy way to guide player while not being too obnoxious.   <!--Your entry here or N/A if not applicable for this entry-->
+> I learned that things don't need to be that complicated and there are simple ways that makes the lease confusion.
+> I implemented multiple aspects from the decks and cards lesson with areas and the cost of using each card.   <!--Your entry here or N/A if not applicable for this entry-->
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
-> I still haven't made a prototype to test out my game yet, I really need to do it, perhaps a run to the local arts and craft store is in order.  <!--Your entry here or N/A if not applicable for this entry-->
+> Since I have created my prototype i want to play and experiment with it more with other players.  <!--Your entry here or N/A if not applicable for this entry-->
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
->  Prototype and I need to read chapter 2 of the book.  <!--Your entry here or N/A if not applicable for this entry-->
+>  test prototype  <!--Your entry here or N/A if not applicable for this entry-->
