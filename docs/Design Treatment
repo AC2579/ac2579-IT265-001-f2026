@@ -1,10 +1,10 @@
-# [Working Game Title]
+# [Ember]
 
 _Game Design Treatment_
 
-**Designer:** [Name]
+**Designer:** [Andrew C.]
 
-**Updated:** [Date]
+**Updated:** [11/9/2026]
 
 <!--
 Use this document to explain the game clearly enough for a reader to understand
@@ -18,12 +18,15 @@ proposals. A finished prototype or digital implementation is not needed here.
 ## Game Concept
 
 <!-- Explain why the working title fits. Mention alternative titles if useful. -->
-[Explain the title choice.]
+[The original concept was for there to be a base building machanic and the players would upgrade the base and hold out as the last ember of humanity. The current 
+game can be called Dungeon Delver with it's game play, but it's a bit generic and atleast Ember is what remained from my first concept of my game.]
 
 <!-- Describe the setting, theme, and story or premise. Identify the characters
 or the role the player takes. A game without a story can describe its situation
 and player roles instead; do not invent a narrative just to fill this section. -->
-[Describe the premise and the player's place in it.]
+[The player delves into the dungeon as a charater, in search of Ember to continue humanity's flame. The journey will be filled with encounters, challenges, events,
+and bosses who will try to stop the player from reaching their Ember. As the player succeeds in Stealing more and more Ember form the dungeon, the creatures become
+more and more terrible to try and stop the player. After taking enough Ember from the natives the player will reach a true ending.]
 
 ## Gameplay
 
@@ -32,8 +35,10 @@ succeeds, fails, or ends. Describe the recurring decisions and actions, the rule
 that connect them, and what changes in the game as a result. Game state means the
 current situation, such as positions, resources, score, or available choices.
 Describe the intended experience through those interactions. -->
-[Describe the goals, challenges, and ending.]
-[Describe the player's goals and challenges.]
+[In a single turn the player will choose a room from three choices, the room can be a challenge room, a reward room, a event room, and a boss room. The player will
+enter the room and resolve the event in the chosen room, recieving upgrade or other rescources that will prepare the player for the boss of the dungeon.]
+[The player's goal is to prepare for the boss of the dungeon thought going through the dungeon, balanceing risk and reward so that the player doesn't overexert 
+their charater before the boss.]
 
 [Explain the core loop: what the player considers, chooses or does, and how that changes the next decision.]
 ### Setup And Start
