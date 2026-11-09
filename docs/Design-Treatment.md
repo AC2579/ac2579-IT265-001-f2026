@@ -37,6 +37,7 @@ current situation, such as positions, resources, score, or available choices.
 Describe the intended experience through those interactions. -->
 [In a single turn the player will choose a room from three choices, the room can be a challenge room, a reward room, a event room, and a boss room. The player will
 enter the room and resolve the event in the chosen room, recieving upgrade or other rescources that will prepare the player for the boss of the dungeon.]
+
 [The player's goal is to prepare for the boss of the dungeon thought going through the dungeon, balanceing risk and reward so that the player doesn't overexert 
 their charater before the boss.]
 
