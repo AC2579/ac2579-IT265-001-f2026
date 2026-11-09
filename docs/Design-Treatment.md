@@ -40,7 +40,7 @@ enter the room and resolve the event in the chosen room, recieving upgrade or ot
 [The player's goal is to prepare for the boss of the dungeon thought going through the dungeon, balanceing risk and reward so that the player doesn't overexert 
 their charater before the boss.]
 
-[Explain the core loop: what the player considers, chooses or does, and how that changes the next decision.]
+[The core loop includes the player choosing the room they will take to continue their run, depending of the game state, after the room gets resolved, the game state changes. The player can have low health after a combat but also stronger, so should the player choose another combat for better rewards or a safer route to save hp for the boss? ]
 ### Setup And Start
 
 <!-- Describe the starting state: how the play area and pieces are arranged,
